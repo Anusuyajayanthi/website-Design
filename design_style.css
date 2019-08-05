@@ -1,0 +1,63 @@
+body {
+    font-family: 'Lato', sans-serif !important;
+    margin:0;
+  }
+  .bg{
+      background-image: url("../image/coffee4.jpg");
+      background-color: black;
+    opacity: 0.99;
+    z-index:1;
+  }
+  .bg_color{
+    
+  }
+  .nav-img{
+      text-align:center;
+      padding-top:40px;
+  }
+  .nav-link{
+      color:white;
+      padding: 20px 2px;
+      font-style: bold;
+      
+  }  
+    
+
+      .nav-item {
+        overflow: hidden;
+        padding: 30px;
+        
+      }
+      
+      .nav-item a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 17px;
+        border-bottom: 3px solid transparent;
+       
+      }
+      
+      .nav-item a:hover {
+        border-bottom: 3px solid white;
+      }
+      
+      .nav-item a.active {
+        border-bottom: 3px solid white;
+      }
+     li{
+        text-align: center;
+     }
+     .para{
+         text-align: center;
+         color: white
+     }
+     .img-index{
+      
+       
+        /* opacity: 0.50; */
+            z-index:1;
+      
+     }
